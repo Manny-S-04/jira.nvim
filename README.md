@@ -1,5 +1,7 @@
 # jira.nvim
 
+Built inside my www.github.com/Manny-S-04/NvimSetup config, the commit history is there.
+
 Work with Jira tickets without leaving Neovim: list your issues, open any ticket, change its status,
 comment, and assign, against **Jira Cloud** or **Jira Server / Data Center**.
 
